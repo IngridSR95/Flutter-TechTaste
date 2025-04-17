@@ -15,4 +15,3 @@ class MyApp extends StatelessWidget {
     return MaterialApp(theme: AppTheme.appTheme, home: SplashScreen());
   }
 }
-//palavra chave 1 - ALURA

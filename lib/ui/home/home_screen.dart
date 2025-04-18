@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:myapp/data/categories_data.dart';
 import 'package:myapp/data/restaurant_data.dart';
 import 'package:myapp/model/restaurant.dart';
+import 'package:myapp/ui/_core/wigdets/app_bar.dart';
 import 'package:myapp/ui/home/widgets/category_wigdet.dart';
 import 'package:myapp/ui/home/widgets/restaurant_widgets.dart';
 import 'package:provider/provider.dart';
@@ -14,9 +15,7 @@ class HomeScreen extends StatelessWidget {
     RestaurantData restaurantData = Provider.of<RestaurantData>(context);
     return Scaffold(
       drawer: Drawer(),
-      appBar: AppBar(
-        actions: [IconButton(onPressed: () {}, icon: Icon(Icons.login))],
-      ),
+      appBar: getAppBar(context: context),
       body: Padding(
         padding: EdgeInsets.symmetric(horizontal: 24.0),
         child: SingleChildScrollView(

@@ -27,7 +27,7 @@ class SplashScreen extends StatelessWidget {
                         style: TextStyle(color: Colors.white, fontSize: 22.0),
                       ),
                       Text(
-                        "melhor exeriência culinária!",
+                        "melhor experiência culinária!",
                         style: TextStyle(
                           color: AppColors.mainColor,
                           fontSize: 22.0,

@@ -47,6 +47,7 @@
 O design do app foi criado pela equipe da Alura. Você pode conferir o protótipo completo no Figma:
 
 🔗 [Figma do TechTaste - Imersão Flutter](https://www.figma.com/design/5WKjBnTvAKTraWTRqsjK02/TechTaste-%7C-Imers%C3%A3o?node-id=7-47&p=f&t=oHwKOX6WZF6d9BSV-0)
+🔗[Projeto Completo no Perfil Alura - Imersão Flutter](https://github.com/alura-cursos/flutter_techtaste).
 
 > Embora algumas telas e funcionalidades do Figma não tenham sido abordadas nas aulas, elas são uma ótima inspiração para futuras melhorias no app! ✨
 

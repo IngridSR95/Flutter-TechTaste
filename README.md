@@ -1,16 +1,39 @@
-# myapp
+#  TechTaste - App Flutter
 
-A new Flutter project.
+Este é um projeto desenvolvido durante a **Imersão Mobile da Alura**.  
+O objetivo é construir um app de pedidos com Flutter, utilizando boas práticas e integração com Firebase.
 
-## Getting Started
+## ✅ Funções concluídas
 
-This project is a starting point for a Flutter application.
+- SplashScreen com imagem e botão
+- Navegação para a Home
+- Criação da estrutura base do projeto
+- Organização de temas e cores
+- Tela inicial com AppBar, Drawer e campo de busca
+- Lista de restaurantes dinâmica usando Provider
+- Criação de widgets reutilizáveis (categorias e restaurantes)
+- Leitura de dados a partir de um JSON local
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tecnologias usadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" alt="Firebase" width="70" height="50"/>
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📌 Próximos passos
+
+- Tela de detalhes do restaurante
+- Tela da sacola de compras
+- Tela de checkout
+
+---
+
+Projeto em andamento 🚧  
+Mais atualizações em breve! 😉
+
+
+### 🔗 Links da Imersão Mobile
+
+* **Página da Imersão Mobile Alura:** [https://www.alura.com.br/imersao-mobile/](https://www.alura.com.br/imersao-mobile/)
